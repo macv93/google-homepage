@@ -49,15 +49,15 @@ footer {
 
 .logo{
     background-image: url("https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png");
-    background-size: 40%;
+    background-size: 10%;
     background-position: center;
     background-repeat: no-repeat;
-    height: 128px;
+    height: 100px;
     width: 100%;
 }
 
 .main-container {
-    height:100%;
+    height:80%;
     padding-top: 3em;
     text-align: center;
 }
